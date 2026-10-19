@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book id="1">
+    <title>JSON at Work</title>
+    <author>Tom Marrs</author>
+    <price>29.99</price>
+  </book>
+  <book id="2">
+    <title>Learning XML</title>
+    <author>Erik Ray</author>
+    <price>39.99</price>
+  </book>
+  <book id="3">
+    <title>JavaScript: The Good Parts</title>
+    <author>Douglas Crockford</author>
+    <price>24.99</price>
+  </book>
+</books>
